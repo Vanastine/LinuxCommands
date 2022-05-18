@@ -1,0 +1,64 @@
+quiz### Case sensitive!!!
+
+# display current user context
+whoami
+
+#lists groups youre in
+groups
+
+# unix name details
+uname
+
+# unix name all details
+uname -a
+
+# clear the console
+clear
+
+#display the date
+date
+
+# format date example
+date +"%m-%d-%Y"
+
+# lists the files / directories
+ls
+
+# list all files in the long listing form
+#the l and a are command line
+# options, switches, arguments
+ls -a
+
+# concatenates to the screen
+cat <filename>
+# print the contents of a file
+
+#makes a directory
+mkdir <name-here>
+
+#Present working directory
+pwd
+
+# 3 ways to terminate
+"Ctr+c" "Ctrl+d" "q"
+#cli text editor
+nano
+
+# change dir to /home
+cd /home
+
+#cd to your home mkdir
+cd
+cd ~
+su
+
+#touch
+create a file
+
+#cp
+Copy a file
+cp [additional_option] source_file target_file
+
+For example:
+
+cp my_file.txt my_file2.txt
