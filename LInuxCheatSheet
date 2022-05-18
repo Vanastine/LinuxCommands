@@ -62,3 +62,4 @@ cp [additional_option] source_file target_file
 For example:
 
 cp my_file.txt my_file2.txt
+### (>'.')>   (>'.'<)  <('.'<)
